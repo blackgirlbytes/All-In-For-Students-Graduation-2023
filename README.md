@@ -43,3 +43,6 @@ Contact - students@allinopensource.org
 - School: Fake School
 - Favorite Quote: Fake Quote
 ---
+- School: Boston University
+- Favorite Quote: "You miss 100% of the shots you don't take"
+---
